@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "PSP Linkages Pt Nanoporous Foams"
+title:  "Structure-Property Linkages of Semi-Crystalline Materials"
 date:   2015-09-10 17:04:20
 categories: project
 author: Materials-Informatics-Class-Fall2015
